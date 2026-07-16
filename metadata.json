@@ -1,0 +1,6 @@
+{
+  "name": "Sura AI",
+  "description": "An ultra-fast, future-generation artificial intelligence platform by Choco Software, combining chat, reasoning, coding, creativity, and multilingual capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
